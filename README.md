@@ -1,5 +1,5 @@
 # Veri Görselleştirme
- Pyhton'da veri görselleştirme;
+ Pyhton'da veri görselleştirme; \n
  Dağılım Grafikleri
    - Histogram
         Sayısal değişkenler vardır.       
